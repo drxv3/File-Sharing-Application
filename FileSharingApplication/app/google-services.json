@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055561225020",
+    "project_id": "file-sharing-application-683b7",
+    "storage_bucket": "file-sharing-application-683b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055561225020:android:7946f0fec1f6b6c53f8439",
+        "android_client_info": {
+          "package_name": "com.example.filesharingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055561225020-l7soh9eub0vkf5cnog759e3msg78f9p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDETcaMCJPIbBCXn8cXmropFdgnTLTipLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055561225020-l7soh9eub0vkf5cnog759e3msg78f9p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
